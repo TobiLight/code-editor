@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.site-style {
+    @apply bg-green-300 min-h-screen
+}
+
+@tailwind utilities;
